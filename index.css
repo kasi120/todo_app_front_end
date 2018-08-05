@@ -1,0 +1,24 @@
+body{
+  background-color: #662563;
+}
+h1{
+ color: #f99df6; 
+ font-size: 50px;
+ font-weight: bold;
+ text-align:center;
+}
+
+ol{
+  background-color: #f7d7f6;
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  list-style: none;
+  border-radius: 5px;
+  box-shadow: 10px 10px 30px;
+
+}
+span{
+  color: #898baf;
+  width: 500px;
+}
